@@ -1,3 +1,5 @@
+package exercise_4;
+
 class Applicant {
   public boolean isCredible() {
     return true;    

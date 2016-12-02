@@ -1,3 +1,5 @@
+package exercise_2;
+
 import java.io.*;
 
 class Sample {    

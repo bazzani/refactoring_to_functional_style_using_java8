@@ -1,3 +1,5 @@
+package exercise_3;
+
 import java.util.*;
 
 class Sample {    

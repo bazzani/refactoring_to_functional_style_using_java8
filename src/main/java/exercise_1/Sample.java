@@ -1,4 +1,6 @@
-class Sample {    
+package exercise_1;
+
+class Sample {
   public static boolean isPrime(int number) {
     boolean divisible = false;
     for(int i = 2; i < number; i++) {

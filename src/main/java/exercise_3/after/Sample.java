@@ -1,3 +1,5 @@
+package exercise_3.after;
+
 import java.util.*;
 import static java.util.stream.Collectors.*;
 

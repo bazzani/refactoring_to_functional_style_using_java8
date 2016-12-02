@@ -1,7 +1,9 @@
+package exercise_2.after;
+
 import java.io.*;
 import java.nio.file.*;
 
-class Sample {    
+class   Sample {
   public static void main(String[] args) {
     try {
       String searchWord = "localhost";

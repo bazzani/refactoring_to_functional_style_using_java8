@@ -1,3 +1,5 @@
+package exercise_4.after;
+
 import java.util.function.Predicate;
 
 class Applicant {

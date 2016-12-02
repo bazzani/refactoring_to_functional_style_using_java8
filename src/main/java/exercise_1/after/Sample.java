@@ -1,3 +1,5 @@
+package exercise_1.after;
+
 import java.util.stream.*;
 
 class Sample {    

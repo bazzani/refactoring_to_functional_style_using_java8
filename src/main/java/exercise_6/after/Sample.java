@@ -1,3 +1,5 @@
+package exercise_6.after;
+
 import java.util.*;
 import java.util.stream.*;
 
