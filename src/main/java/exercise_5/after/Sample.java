@@ -1,6 +1,5 @@
-package exercise_6.after;
+package exercise_5.after;
 
-import java.util.*;
 import java.util.stream.*;
 
 class Sample {                                         
